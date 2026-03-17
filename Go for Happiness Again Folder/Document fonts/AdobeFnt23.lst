@@ -1,0 +1,26 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComicSansMS-BoldItalic
+FamilyName:Comic Sans MS
+StyleName:Bold Italic
+FullName:Comic Sans MS Bold Italic
+MenuName:Comic Sans MS
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\SWStudent\me\Multimedia\Go for Happiness Again Folder\Document fonts\comicz.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:253232
+FileModTime:1711956164
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Comic Sans MS Bold Italic
+NameArray:0,Win,1,Comic Sans MS
+%EndFont
+
